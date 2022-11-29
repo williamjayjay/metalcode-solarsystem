@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="Metalcode" height="18" title="Metalcode" src="./.github/logo.png" />
+   <img alt="Metalcode" height="18" title="Metalcode" src="./.github/logo2.png" />
 </h1>
 
 <p align="center">
